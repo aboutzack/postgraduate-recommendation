@@ -29,3 +29,27 @@
 * [南大计科](nan-da/nan-da-ji-ke.md)
 * [南大软院](nan-da/nan-da-ruan-yuan.md)
 
+## 复旦
+
+* [复旦计科](fu-dan/fu-dan-ji-ke.md)
+
+## 上交
+
+* [上交软院](shang-jiao/shang-jiao-ruan-yuan.md)
+
+## 中科大
+
+* [科大计科](zhong-ke-da/ke-da-ji-ke.md)
+* [科大大数据](zhong-ke-da/ke-da-da-shu-ju.md)
+
+## 浙大
+
+* [浙大计科](zhe-da/zhe-da-ji-ke.md)
+* [浙大软院](zhe-da/zhe-da-ruan-yuan.md)
+
+## 中科院
+
+* [中科院自动化所](zhong-ke-yuan/zhong-ke-yuan-zi-dong-hua-suo.md)
+* [中科院计算所](zhong-ke-yuan/zhong-ke-yuan-ji-suan-suo.md)
+* [中科院软件所](zhong-ke-yuan/zhong-ke-yuan-ruan-jian-suo.md)
+
