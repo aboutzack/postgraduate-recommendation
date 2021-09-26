@@ -1,2 +1,2 @@
-# Initial page
+# 录取情况
 
