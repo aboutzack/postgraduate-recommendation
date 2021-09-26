@@ -11,12 +11,10 @@
 
 ## 北大
 
----
-
-* [北大叉院](bei-da-cha-yuan.md)
-* [北大信科](bei-da-xin-ke.md)
-* [北大软微](bei-da-ruan-wei.md)
-* [北大信工](bei-da-xin-gong.md)
+* [北大叉院](bei-da/bei-da-cha-yuan.md)
+* [北大信科](bei-da/bei-da-xin-ke.md)
+* [北大软微](bei-da/bei-da-ruan-wei.md)
+* [北大信工](bei-da/bei-da-xin-gong.md)
 
 ## 人大
 
