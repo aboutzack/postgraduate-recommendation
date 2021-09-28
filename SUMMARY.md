@@ -51,3 +51,7 @@
 * [中科院计算所](zhong-ke-yuan/zhong-ke-yuan-ji-suan-suo.md)
 * [中科院软件所](zhong-ke-yuan/zhong-ke-yuan-ruan-jian-suo.md)
 
+---
+
+* [作者 & 联系方式](zuo-zhe-lian-xi-fang-shi.md)
+
