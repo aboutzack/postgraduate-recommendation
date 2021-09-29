@@ -1,6 +1,6 @@
 # Table of contents
 
-* [录取情况](README.md)
+* [录取情况](lu-qu-qing-kuang.md)
 
 ## 清华
 
