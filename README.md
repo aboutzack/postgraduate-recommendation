@@ -1,7 +1,7 @@
 # 保研攻略
 
 
-地址：https://1834103375.gitbook.io/postgraduate-recommendation/fu-dan/fu-dan-ji-ke
+地址：https://app.gitbook.com/@aboutzack/s/postgraduate-recommendation/
 
 由中南大学SE、CS等相关专业学长学姐编写的保研攻略，希望大家都能更快更高效更少踩坑地成功保研，拥有光明的未来。
 
