@@ -1,6 +1,7 @@
 # Table of contents
 
 * [录取情况](lu-qu-qing-kuang.md)
+* [面经汇总](面经汇总.md)
 
 ## 清华
 
