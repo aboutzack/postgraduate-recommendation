@@ -25,5 +25,5 @@
 您可以用如下两种方式对此项目进行贡献：
 
 - fork项目之后发PR
-- 联系**Guanyu Cai** ([GitHub](https://github.com/aboutzack/)) 获取本项目写权限后，直接向master分支贡献
+- 联系**Guanyu Cai** ([GitHub](https://github.com/aboutzack/)) 获取本项目写权限后，直接向master分支贡献，或者向其他分支贡献然后提PR
 
