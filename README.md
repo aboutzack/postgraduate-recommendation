@@ -20,8 +20,8 @@ gitbook对github的支持文档请查阅https://docs.gitbook.com/integrations/gi
 - 插入本地图片方法：
     1. 在 `.gitbook/assets/`放入您希望使用的图片
     2. 使用 `(名称)[链接]`的方式引用图片（同markdown语法）
-- 新增页面方法：修改SUMMARY.md
-- 修改页面方法：从SUMMARY.md中找到链接到的.md文件，修改此.md文件
+- 新增页面方法：修改SUMMARY.md，并创建对应的.md文件。例如新增一行`* [清华叉院](qing-hua/qing-hua-cha-yuan.md)`，并创建`qing-hua/qing-hua-cha-yuan.md`
+- 修改页面方法：从SUMMARY.md中找到链接到的.md文件，修改此.md文件。例如希望修改`清华叉院`经验贴，请从`SUMMARY.md`中找到对应的.md文件`qing-hua/qing-hua-cha-yuan.md`，编辑即可
 
 ## 贡献
 
@@ -30,3 +30,5 @@ gitbook对github的支持文档请查阅https://docs.gitbook.com/integrations/gi
 - fork项目之后发PR
 - 联系**Guanyu Cai** ([GitHub](https://github.com/aboutzack/)) 获取本项目写权限后，直接向master分支贡献，或者向其他分支贡献然后提PR
 - 联系项目的贡献者之一，请他/她帮忙贡献
+
+我们绝对欢迎任何同学对于任何院校的经验贴的贡献，但是由于维护者精力有限，您所写的院校可能尚未有页面存在，您可以参照[Tips](./README.md#Tips)新增和修改页面的方法，感谢您的支持！
