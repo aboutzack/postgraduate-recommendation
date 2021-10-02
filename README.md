@@ -11,6 +11,9 @@
 
 本项目依托于[gitbook](https://www.gitbook.com/) 平台，使用markdown编写和组织
 
+gitbook对github的支持文档请查阅https://docs.gitbook.com/integrations/github
+- 如果您对github中文件是如何映射到gitbook网页有疑问，请查阅https://docs.gitbook.com/integrations/github/content-configuration
+
 ## Tips
 
 - 推荐直接使用IDEA/PyCharm/VSCode编写，集成了图形化的git工具、markdown预览工具
@@ -22,7 +25,7 @@
 
 ## 贡献
 
-您可以用如下两种方式对此项目进行贡献：
+您可以用如下三种方式对此项目进行贡献：
 
 - fork项目之后发PR
 - 联系**Guanyu Cai** ([GitHub](https://github.com/aboutzack/)) 获取本项目写权限后，直接向master分支贡献，或者向其他分支贡献然后提PR
