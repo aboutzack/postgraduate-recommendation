@@ -116,6 +116,9 @@
 * [中山AI](zhong-shan/zhong-shan-ai.md)
 * [中山软院](zhong-shan/zhong-shan-ruan-yuan.md)
 
+## 武大
+
+* [武大计算机](wu-da/wu-da-ji-suan-ji.md)
 
 ---
 
