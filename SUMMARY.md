@@ -30,11 +30,14 @@
 
 ## 复旦
 
+* [复旦类脑](fu-dan/fu-dan-lei-nao.md)
 * [复旦计科](fu-dan/fu-dan-ji-ke.md)
+* [复旦大数据](fu-dan/fu-dan-da-shu-ju.md)
 
 ## 上交
 
 * [上交软院](shang-jiao/shang-jiao-ruan-yuan.md)
+* [上交电院](shang-jiao/shang-jiao-dian-yuan.md)
 
 ## 中科大
 
@@ -51,6 +54,68 @@
 * [中科院自动化所](zhong-ke-yuan/zhong-ke-yuan-zi-dong-hua-suo.md)
 * [中科院计算所](zhong-ke-yuan/zhong-ke-yuan-ji-suan-suo.md)
 * [中科院软件所](zhong-ke-yuan/zhong-ke-yuan-ruan-jian-suo.md)
+
+## 西湖大学
+
+* [西湖大学](xi-hu-da-xue/xi-hu-da-xue.md)
+
+## 南科大
+
+* [南科大计科](nan-ke-da/na-ke-da-ji-ke.md)
+
+## 上科大
+
+* [上科大信院](shang-ke-da/shagn-ke-da-xin-yuan.md)
+
+## 西交
+
+* [西交软院](xi-jiao/xi-jiao-ruan-yuan.md)
+* [西交AI](xi-jiao/xi-jiao-ai.md)
+
+## 哈工大
+
+* [哈工大深圳](ha-gong-da/ha-gong-da-shen-zhen.md)
+
+## 北理
+
+* [北理计算机](bei-li/bei-li-ji-suan-ji.md)
+
+## 北航
+
+* [北航计算机](bei-hang/bei-hang-ji-suan-ji.md)
+
+## 同济
+
+* [同济软院](tong-ji/tong-ji-ruan-yuan.md)
+* [同济计算机](tong-ji/tong-ji-ji-suan-ji.md)
+
+## 华科
+
+* [华科AI](hua-ke/hua-ke-ai.md)
+* [华科计算机](hua-ke/hua-ke-ji-suan-ji.md)
+
+## 东南
+
+* [东南PALM](dong-nan/dong-nan-palm.md)
+
+## 厦大
+
+* [厦大信院](xia-da/xia-da-xin-yuan.md)
+
+## 南开
+
+* [南开AI](nan-kai/nan-kai-ai.md)
+
+## 天大
+
+* [天大智算](tian-da/tian-da-zhi-suan.md)
+
+## 中山
+
+* [中山计算机](zhong-shan/zhong-shan-ji-suan-ji.md)
+* [中山AI](zhong-shan/zhong-shan-ai.md)
+* [中山软院](zhong-shan/zhong-shan-ruan-yuan.md)
+
 
 ---
 
