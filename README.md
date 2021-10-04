@@ -46,7 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/aboutzack"><img src="https://avatars.githubusercontent.com/u/45601041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guanyu-Cai</b></sub></a><br /><a href="#ideas-aboutzack" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/aboutzack"><img src="https://avatars.githubusercontent.com/u/45601041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guanyu-Cai</b></sub></a><br /><a href="#ideas-aboutzack" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-aboutzack" title="Content">🖋</a></td>
   </tr>
 </table>
 
