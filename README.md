@@ -1,4 +1,7 @@
 # 保研攻略
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 gitbook地址：https://aboutzack.gitbook.io/postgraduate-recommendation/
@@ -34,3 +37,22 @@ gitbook对github的支持文档请查阅https://docs.gitbook.com/integrations/gi
 - 联系项目的贡献者之一，请他/她帮忙贡献
 
 我们绝对欢迎任何同学对于任何院校的经验贴的贡献，但是由于维护者精力有限，您所写的院校可能尚未有页面存在，您可以参照[Tips](./README.md#Tips)新增和修改页面的方法，感谢您的支持！
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/aboutzack"><img src="https://avatars.githubusercontent.com/u/45601041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guanyu-Cai</b></sub></a><br /><a href="#ideas-aboutzack" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
