@@ -55,6 +55,10 @@
 * [中科院计算所](zhong-ke-yuan/zhong-ke-yuan-ji-suan-suo.md)
 * [中科院软件所](zhong-ke-yuan/zhong-ke-yuan-ruan-jian-suo.md)
 
+## 武大
+
+* [武大计算机](wu-da/wu-da-ji-suan-ji.md)
+
 ## 西湖大学
 
 * [西湖大学](xi-hu-da-xue/xi-hu-da-xue.md)
@@ -116,9 +120,6 @@
 * [中山AI](zhong-shan/zhong-shan-ai.md)
 * [中山软院](zhong-shan/zhong-shan-ruan-yuan.md)
 
-## 武大
-
-* [武大计算机](wu-da/wu-da-ji-suan-ji.md)
 
 ---
 
