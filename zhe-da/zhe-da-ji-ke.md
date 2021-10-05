@@ -53,4 +53,4 @@ description: 'http://www.cs.zju.edu.cn/'
 
 ## 作者
 
-[xlzz]( [来无影去无踪](../zuo-zhe-lian-xi-fang-shi.md))
+[xlzz](../zuo-zhe-lian-xi-fang-shi.md)
